@@ -1,3 +1,5 @@
+TODO LIST (dev ed : https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
